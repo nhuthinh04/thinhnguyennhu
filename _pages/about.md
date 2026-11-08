@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://hust.edu.vn/" target="_blank">HUST</a> · Mechatronics Engineering · AI Researcher
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>AiRA Lab</p>
+    <p>Hanoi University of Science and Technology</p>
+    <p>Hanoi, Vietnam</p>
+    <p>Phone: (+84) 0329 000 482</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +23,27 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Mechatronics Engineering graduate from **Hanoi University of Science and Technology (HUST)** and currently a Research Assistant at [AiRA Lab](https://aira-hust.github.io/AiRA/), HUST.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Research Interests
+As a science-oriented person, my long-term vision is to develop intelligent systems and structures that learn from the fundamental principles of physics, biology, and engineering. My research interests focus on applied machine learning, particularly:
+- **Physics-Informed Machine Learning (PIML)** and **Physics-Informed Neural Networks (PINNs)**
+- **Generative AI** for scientific discovery and inverse problems
+- **Nonlinear dynamics & bifurcation analysis** of metamaterials and smart structures (e.g., Kresling origami)
+- **Structural analysis & design optimization** of composite structures
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My ultimate goal is to build physics-grounded AI models that enable the understanding, design, and control of next-generation smart structures.
+
+### Education
+- **B.Sc. in Mechatronics Engineering** (10/2022 – 08/2026)  
+  *Hanoi University of Science and Technology (HUST)*, Hanoi, Vietnam  
+  - **GPA:** 3.69 / 4.0  
+  - **Thesis:** *Modeling and Inverse Design of Kresling Origami via Physics-Informed Neural Networks*  
+  - **Awards:** VPMS Award for Graduation Thesis with Scientific Value; Outstanding Creative Idea Award (43rd HUST Annual Student Research Conference).
+
+Feel free to check out my [CV](/cv/), [Publications](/publications/), or reach out via [Email](mailto:nhuthinh2004@gmail.com)!

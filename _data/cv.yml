@@ -1,189 +1,149 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Thinh Nguyen Nhu
+  label: Mechatronics Engineer & AI Researcher
+  email: nhuthinh2004@gmail.com
+  phone: "0329 000 482"
+  location: Hanoi, Vietnam
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: As a science-oriented person, my long-term vision is to develop intelligent systems and structures that learn from the fundamental principles of physics, biology, and engineering. My research interests focus on applied machine learning, particularly Physics-Informed Machine Learning (PIML) and Generative AI for scientific discovery and inverse problems.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: nhuthinh04
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Hanoi University of Science and Technology
+    city: Hanoi
+    region: Hanoi
+    countryCode: VN
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Hanoi University of Science and Technology (HUST)
+        location: Hanoi, Vietnam
+        url: https://hust.edu.vn/
+        area: Mechatronics Engineering
+        studyType: B.Sc.
+        start_date: 2022-10-01
+        end_date: 2026-08-01
+        score: "GPA: 3.69 / 4.0"
+        courses: "Modeling and Inverse Design of Kresling Origami via Physics-Informed Neural Networks"
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Modeling and Inverse Design of Kresling Origami via Physics-Informed Neural Networks"
+          - "VPMS Award for Graduation Thesis with Scientific Value"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: AiRA Lab, HUST
+        position: Research Assistant
+        location: Hanoi, Vietnam
+        url: https://aira-hust.github.io/AiRA/
+        start_date: 2026-09-01
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Investigate Physics-Informed Machine Learning (PIML) methods for scientific and engineering applications.
+          - Develop PINN architectures for multi-solution inverse design of Kresling origami structures.
+          - Implement PINN-based frameworks for structural analysis and design optimization of composite laminates.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Origami Technology Lab, HUST
+        position: Undergraduate Student Researcher
+        location: Hanoi, Vietnam
+        start_date: 2025-07-01
+        end_date: 2026-08-01
         highlights:
-          - Description 1.
-          - Description 2.
+          - Modeled nonlinear dynamic behaviors of Kresling origami and constructed bifurcation diagrams under harmonic excitation.
+          - Formulated Physics-Informed Neural Network (PINN) algorithms for the inverse design of Kresling structures as part of undergraduate thesis research.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Project XYaZ Lab, HUST
+        position: Undergraduate Student Researcher
+        location: Hanoi, Vietnam
+        start_date: 2024-10-01
+        end_date: 2025-06-01
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - Modeled and simulated the dynamics of a 3-RRR planar parallel robot using MATLAB/Simulink.
+          - Evaluated trajectory-tracking algorithms for parallel mechanisms.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Gradient-Based Inverse Design of Kresling Origami via Neural Surrogate Modeling
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Thanh Trung Vuong
+          - Duc Thu Nguyen
+          - Nguyen Nhu Thinh
+          - Thao Thai Phuong
+          - Chien Truong Quoc
+        publisher: Robotics and Mechatronics, ISRM 2026
+        releaseDate: 2026-07-03
+        url: https://doi.org/10.1007/978-3-032-29469-2_39
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: A Comprehensive Analysis of Global Dynamics and Bifurcation of a Kresling Origami Structure
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Minh-Tuan Nguyen-Thai
+          - Thinh Nguyen Nhu
+          - Ngoc-Vu Le-Nguyen
+          - Chien Truong-Quoc
+          - Thao Phuong Thai
+        publisher: SSRN (Submitted)
+        releaseDate: 2026
+        url: https://doi.org/10.2139/ssrn.6721329
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Dynamic Behavior of Kresling Origami under Harmonic Excitation: A Five-Parameter Energy Framework
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Thinh Nguyen Nhu
+          - Chien Truong Quoc
+          - Thao Thai Phuong
+        publisher: The 8th International Conference on Engineering Mechanics and Automation (ICEMA25)
+        releaseDate: 2025-11-14
+        url: https://doi.org/10.15625/vap.2026.0031
+
+    Awards:
+      - title: Academic Encouragement Scholarship
+        date: 2023 - 2025
+        awarder: Hanoi University of Science and Technology (HUST)
+        summary: Awarded for academic excellence across semesters 2023.2, 2024.1, 2024.2, and 2025.2.
+
+      - title: Outstanding Creative Idea Award
+        date: 2026
+        awarder: 43rd HUST Annual Student Research Conference (SVNCKH), HUST
+
+      - title: VPMS Award - Graduation Thesis with Scientific Value
+        date: 2026
+        awarder: Hanoi University of Science and Technology (HUST)
+
+      - title: Certificate of Merit for Outstanding Student
+        date: 2025
+        awarder: Academic Year 2024–2025, HUST
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, PyTorch, JAX, MATLAB/Simulink, C/C++"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
       - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: "Physics-Informed Machine Learning (PIML), Operator Learning, Kolmogorov–Arnold Networks (KAN), Generative Modeling (VAE, Diffusion), CNN"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Mathematical Tools
+        level: Intermediate
+        icon: fa-solid fa-square-root-variable
+        keywords: "Optimization, Mathematical modeling of dynamical systems, Numerical simulation, Nonlinear system analysis, FEA"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Academic Research
+        level: Advanced
+        icon: fa-solid fa-book
+        keywords: "Academic research, Scientific literature & writing in English, LaTeX typesetting, Research presentations"
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    Competitions:
+      - company: Biohub - Cell Tracking During Development (Kaggle)
+        position: Competitor
+        date: 2026-09-01
+        summary: Developed a deep learning pipeline for cell segmentation and multi-object tracking.
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Thao Thai Phuong, PhD
+        icon: fa-solid fa-user-tie
+        reference: "Lecturer, School of Mechanical Engineering, HUST. Email: thao.thaiphuong@hust.edu.vn"
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Chien Truong-Quoc, PhD
+        icon: fa-solid fa-user-tie
+        reference: "Lecturer, School of Mechanical Engineering, HUST. Email: chien.truongquoc@hust.edu.vn"
