@@ -71,6 +71,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3.5"
+          bundler: latest
           bundler-cache: true
       - name: Setup Python 🐍
         uses: actions/setup-python@v7
@@ -94,7 +95,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
-          pip3 install --upgrade nbconvert
+          pip3 install --upgrade nbconvert --break-system-packages
           export JEKYLL_ENV=production
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
