@@ -1,0 +1,126 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+\usepackage{graphicx}
+
+% CV style and color configuration
+\moderncvstyle[nosymbols]{banking}
+\moderncvicons{awesome}
+\moderncvicons{tikz}
+\DeclareFontSeriesDefault[sf]{bf}{bx}
+\moderncvcolor{blue}
+\colorlet{firstnamecolor}{black}
+\colorlet{lastnamecolor}{black}
+\renewcommand*{\labelitemi}{\strut\textcolor{black}{\small\rmfamily\textbullet}}
+
+% Set margins to fit one page
+\usepackage[scale=0.82]{geometry}  
+
+% Personal information
+\name{Thinh Nguyen Nhu}{}
+\address{Hanoi University of Science and Technology, Hanoi, Vietnam}{}{}
+\email{nhuthinh2004@gmail.com}
+\phone{0329 000 482}
+\begin{document}
+
+\makeatletter
+\noindent
+\begin{minipage}[c]{0.78\textwidth}
+    \raggedright
+    \firstnamestyle{\@firstname}~\lastnamestyle{\@lastname}\par
+    \vspace{0.5em}
+    \addressstyle{\@addressstreet}\par
+    \vspace{0.3em}
+    \addressstyle{\emailsymbol\emaillink{\@email}\quad
+    \collectionloop{phones}{\csname\collectionloopkey phonesymbol\endcsname\collectionloopitem}}\par
+\end{minipage}\hfill
+\begin{minipage}[c]{0.18\textwidth}
+    \raggedleft
+    \includegraphics[width=\linewidth]{thinh.jpg}
+\end{minipage}
+\makeatother
+\par\vspace{1em}
+
+\section{Introduction}
+As a science-oriented person, my long-term vision is to develop intelligent systems and structures that learn from the fundamental principles of physics, biology, and engineering. My research interests focus on applied machine learning, particularly Physics-Informed Machine Learning (PIML) and Generative AI for scientific discovery and inverse problems. My ultimate goal is to build physics-grounded AI models that enable the understanding, design, and control of next-generation smart structures.
+
+\section{Education}
+\cventry{10/2022 -- 8/2026}
+        {B.Sc. in Mechatronics Engineering}
+        {Hanoi University of Science and Technology (HUST)}
+        {\textnormal{Hanoi, Vietnam}}
+        {}{}
+\cvitem{\textnormal{GPA}}{3.69 / 4.0}
+\cvitem{\textnormal{Thesis}}{Modeling and Inverse Design of Kresling Origami via Physics-Informed Neural Networks}
+
+\section{Research \& Projects}
+
+\cventry{09/2026 -- Present}
+        {Research Assistant}
+        {AiRA Lab (\href{https://aira-hust.github.io/AiRA/}{AiRA}), HUST}
+        {\textnormal{Hanoi, Vietnam}}
+        {}
+        {\begin{itemize}
+        \item Investigate Physics-Informed Machine Learning (PIML) methods for scientific and engineering applications.
+        \item Develop PINN architectures for multi-solution inverse design of Kresling origami structures.
+        \item Implement PINN-based frameworks for structural analysis and design optimization of composite laminates.
+        \end{itemize}}
+
+\cventry{07/2025 -- 08/2026}
+        {Undergraduate Student}
+        {Origami Technology Lab, HUST}
+        {\textnormal{Hanoi, Vietnam}}
+        {}
+        {\begin{itemize}
+        \item Modeled nonlinear dynamic behaviors of Kresling origami and constructed bifurcation diagrams under harmonic excitation.
+        \item Formulated Physics-Informed Neural Network (PINN) algorithms for the inverse design of Kresling structures as part of undergraduate thesis research.
+        \end{itemize}}
+
+\cventry{10/2024 -- 06/2025}
+        {Undergraduate Student}
+        {Project XYaZ Lab, HUST}
+        {\textnormal{Hanoi, Vietnam}}
+        {}
+        {\begin{itemize}
+        \item Modeled and simulated the dynamics of a 3-RRR planar parallel robot using MATLAB/Simulink.
+        \item Evaluated trajectory-tracking algorithms for parallel mechanisms.
+        \end{itemize}}
+
+\section{Publications}
+
+\cvitem{}{\textbf{Gradient-Based Inverse Design of Kresling Origami via Neural Surrogate Modeling}, Thanh Trung Vuong, Duc Thu Nguyen, \underline{Nguyen Nhu Thinh}, Thao Thai Phuong*, Chien Truong Quoc*; \textit{Robotics and Mechatronics, ISRM 2026}; 03 Jul 2026, [\href{https://doi.org/10.1007/978-3-032-29469-2_39}{10.1007/978-3-032-29469-2\_39}].}
+
+\cvitem{}{\textbf{A Comprehensive Analysis of Global Dynamics and Bifurcation of a Kresling Origami Structure}, Minh-Tuan Nguyen-Thai; \underline{Thinh Nguyen Nhu}; Ngoc-Vu Le-Nguyen; Chien Truong-Quoc*; Thao Phuong Thai*; \textit{submitted}; 2026, [\href{https://doi.org/10.2139/ssrn.6721329}{10.2139/ssrn.6721329}].}
+
+\cvitem{}{\textbf{Dynamic Behavior of Kresling Origami under Harmonic Excitation: A Five-Parameter Energy Framework}, \underline{Thinh Nguyen Nhu}, Chien Truong Quoc*, Thao Thai Phuong*; \textit{The 8th International Conference on Engineering Mechanics and Automation (ICEMA25)}; 14 Nov 2025, [\href{https://doi.org/10.15625/vap.2026.0031}{10.15625/vap.2026.0031}].}
+
+\section{Skills}
+\cvitem{Programming}{Python, PyTorch, JAX, MATLAB/Simulink, C/C++}
+\cvitem{Machine Learning}{Physics-Informed Machine Learning (PIML), Operator Learning, Kolmogorov–Arnold Networks (KAN), Generative Modeling (VAE, Diffusion), CNN}
+\cvitem{Mathematical Tools}{Optimization, Mathematical modeling of dynamical systems, Numerical simulation, Nonlinear system analysis, FEA}
+\cvitem{Misc.}{Academic research, Reading scientific literature and writing in English, LaTeX typesetting, research presentations}
+
+\section{Achievements}
+\cvitem{}{\textbf{Academic Encouragement Scholarship} for semesters 2023.2, 2024.1, 2024.2, and 2025.2 – HUST.}
+\cvitem{}{\textbf{Outstanding Creative Idea Award} - 43rd HUST Annual Student Research Conference (SVNCKH), HUST. (2026)}
+\cvitem{}{\textbf{VPMS Award} - Graduation Thesis with Scientific Value, HUST. (2026)}
+\cvitem{}{\textbf{Certificate of Merit for Outstanding Student}, Academic Year 2024–2025, HUST. (2025)}
+
+\section{Competitions}
+\cventry{}
+        {Developed a deep learning pipeline for cell segmentation and multi-object tracking.}
+        {Biohub - Cell Tracking During Development \textnormal{(Kaggle Competition)}}
+        {\textnormal{9/2026}}
+        {}{}
+
+\section{References}
+\cventry{School of Mechanical Engineering, HUST}
+        {thao.thaiphuong@hust.edu.vn}
+        {Thao Thai Phuong, PhD}
+        {\textnormal{Lecturer}}
+        {}{}
+\cventry{School of Mechanical Engineering, HUST}
+        {chien.truongquoc@hust.edu.vn}
+        {Chien Truong-Quoc, PhD}
+        {\textnormal{Lecturer}}
+        {}{}
+
+\end{document}
