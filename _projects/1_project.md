@@ -10,42 +10,12 @@ related_publications: true
 
 This project investigates Physics-Informed Machine Learning (PIML) methods for the structural modeling and inverse design of Kresling origami structures.
 
+### Background & Motivation
+Kresling origami is a cylindrical origami pattern that exhibits coupled axial and rotational motions with tunable bistability and multistability. Designing such metamaterials with pre-programmed mechanical characteristics typically involves solving complex non-linear inverse problems with multiple possible geometries.
+
 ### Key Highlights
-- **Surrogate Modeling:** Formulated neural surrogate models for rapid evaluation of mechanical responses.
-- **PINN Architecture:** Developed physics-informed loss formulations incorporating kinematics and strain energy constraints.
-- **Inverse Design:** Enabled multi-solution inverse design for targeted bistable and multistable behaviors.
+- **Neural Surrogate Modeling:** Developed high-fidelity neural surrogate models capable of predicting mechanical load-displacement responses rapidly without costly numerical simulations.
+- **Physics-Informed Loss Formulation:** Formulated custom loss functions embedding kinematic constraints, equilibrium equations, and elastic strain energy.
+- **Multi-Solution Inverse Design:** Enabled effective inverse parameter identification to discover optimal structural parameters fulfilling target stiffness, bistability, and energy absorption profiles.
 
-Check out our related paper {% cite vuong2026gradient %} and conference presentation {% cite nguyen2025dynamic %}.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Check out our related papers: {% cite vuong2026gradient %} and {% cite nguyen2025dynamic %}.

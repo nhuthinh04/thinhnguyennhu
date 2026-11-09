@@ -356,7 +356,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Nguyen, Nguyen Nhu]
-  first_name: [Thinh, Nhu Thinh, Thinh Nguyen]
+  first_name: [Thinh, Nhu Thinh, Thinh Nguyen, Thinh Nhu]
 
   style: apa
   locale: en

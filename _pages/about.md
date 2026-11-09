@@ -46,4 +46,4 @@ My ultimate goal is to build physics-grounded AI models that enable the understa
   - **Thesis:** *Modeling and Inverse Design of Kresling Origami via Physics-Informed Neural Networks*  
   - **Awards:** VPMS Award for Graduation Thesis with Scientific Value; Outstanding Creative Idea Award (43rd HUST Annual Student Research Conference).
 
-Feel free to check out my [CV](/cv/), [Publications](/publications/), or reach out via [Email](mailto:nhuthinh2004@gmail.com)!
+Feel free to check out my [CV]({{ '/cv/' | relative_url }}), [Publications]({{ '/publications/' | relative_url }}), or reach out via [Email](mailto:nhuthinh2004@gmail.com)!
