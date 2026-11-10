@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 cv_pdf: /assets/pdf/CV_Thinh.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description: Curriculum Vitae of Thinh Nguyen Nhu (B.Sc. in Mechatronics Engineering, HUST).
+description: Curriculum Vitae of Thinh Nguyen Nhu (M.Sc. Student in Mechatronics Engineering, HUST).
 toc:
   sidebar: left
 ---

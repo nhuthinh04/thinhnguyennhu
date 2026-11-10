@@ -5,7 +5,7 @@
     "image": "assets/img/prof_pic.jpg",
     "email": "nhuthinh2004@gmail.com",
     "phone": "0329 000 482",
-    "summary": "As a science-oriented person, my long-term vision is to develop intelligent systems and structures that learn from the fundamental principles of physics, biology, and engineering. My research interests focus on applied machine learning, particularly Physics-Informed Machine Learning (PIML) and Generative AI for scientific discovery and inverse problems. My ultimate goal is to build physics-grounded AI models that enable the understanding, design, and control of next-generation smart structures.",
+    "summary": "As a science-oriented person, my long-term vision is to develop intelligent systems and structures that learn from the fundamental principles of physics, biology, and engineering. My research interests focus on applied machine learning, particularly Physics-Informed Machine Learning (PIML) and Generative AI for scientific discovery and inverse problems. My ultimate goal is to build physics-grounded AI models that enable the understanding, design, and control of next-generation smart systems.",
     "location": {
       "address": "Hanoi University of Science and Technology",
       "city": "Hanoi",
@@ -17,6 +17,11 @@
         "network": "GitHub",
         "username": "nhuthinh04",
         "url": "https://github.com/nhuthinh04"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0002-8653-2368",
+        "url": "https://orcid.org/0009-0002-8653-2368"
       }
     ]
   },
@@ -25,25 +30,39 @@
       "name": "AiRA Lab, HUST",
       "position": "Research Assistant",
       "location": "Hanoi, Vietnam",
+      "url": "https://aira-hust.github.io/AiRA/",
       "startDate": "2026-09-01",
       "endDate": "",
-      "summary": "Investigate Physics-Informed Machine Learning (PIML) methods for scientific and engineering applications.",
+      "summary": "Investigate Physics-Informed Machine Learning (PIML), DNA Origami simulations, and AI4SE teaching assistance.",
       "highlights": [
         "Investigate Physics-Informed Machine Learning (PIML) methods for scientific and engineering applications.",
-        "Develop PINN architectures for multi-solution inverse design of Kresling origami structures.",
-        "Implement PINN-based frameworks for structural analysis and design optimization of composite laminates."
+        "Develop PINN architectures for multi-solution inverse design of Kresling Origami structures.",
+        "Conduct molecular dynamics (MD) simulations and structural design of DNA Origami; explore AI-driven approaches for DNA Origami property prediction and design.",
+        "Serve as Teaching Assistant for the course AI for Science and Engineering (AI4SE) (https://github.com/AiRA-Laboratory/AI4SE)."
+      ]
+    },
+    {
+      "name": "ICMAM Lab Collaborative, HCMUT",
+      "position": "Research Collaborator",
+      "location": "Ho Chi Minh City, Vietnam",
+      "startDate": "2025-12-01",
+      "endDate": "",
+      "summary": "Physics-Informed Neural Networks for structural analysis and optimization of composite laminates.",
+      "highlights": [
+        "Apply Physics-Informed Neural Networks (PINN) for structural analysis and design optimization of composite laminates based on First-order Shear Deformation Theory (FSDT)."
       ]
     },
     {
       "name": "Origami Technology Lab, HUST",
-      "position": "Undergraduate Student Researcher",
+      "position": "Research Student",
       "location": "Hanoi, Vietnam",
       "startDate": "2025-07-01",
-      "endDate": "2026-08-01",
-      "summary": "Modeled nonlinear dynamic behaviors of Kresling origami and formulated PINN algorithms.",
+      "endDate": "",
+      "summary": "Modeled nonlinear dynamic behaviors of Kresling origami, developed PINN algorithms, and numerical dynamic simulation of magnetically actuated origami.",
       "highlights": [
         "Modeled nonlinear dynamic behaviors of Kresling origami and constructed bifurcation diagrams under harmonic excitation.",
-        "Formulated Physics-Informed Neural Network (PINN) algorithms for the inverse design of Kresling structures as part of undergraduate thesis research."
+        "Formulated Physics-Informed Neural Network (PINN) algorithms for the inverse design of Kresling structures as part of undergraduate thesis research.",
+        "Perform numerical dynamic modeling of Magnetically Actuated Kresling Origami combining magnetic actuation with a bar-and-hinge framework and the open-source Newton-Physics environment."
       ]
     },
     {
@@ -65,6 +84,18 @@
       "location": "Hanoi, Vietnam",
       "url": "https://hust.edu.vn/",
       "area": "Mechatronics Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2026-11-01",
+      "endDate": "",
+      "highlights": [
+        "Specialization: Intelligent mechatronic systems, physics-informed machine learning, and dynamics of advanced structures."
+      ]
+    },
+    {
+      "institution": "Hanoi University of Science and Technology (HUST)",
+      "location": "Hanoi, Vietnam",
+      "url": "https://hust.edu.vn/",
+      "area": "Mechatronics Engineering",
       "studyType": "B.Sc.",
       "startDate": "2022-10-01",
       "endDate": "2026-08-01",
@@ -74,11 +105,19 @@
       ],
       "highlights": [
         "Thesis: Modeling and Inverse Design of Kresling Origami via Physics-Informed Neural Networks",
-        "VPMS Award for Graduation Thesis with Scientific Value"
+        "Certificate of Merit for Outstanding Graduate (Toàn khóa) with CPA > 3.6 and Training Score > 90 (09/2026)",
+        "VPMS Award for Graduation Thesis with Scientific Value (2026)",
+        "Outstanding Creative Idea Award - 43rd HUST Annual Student Research Conference (2026)"
       ]
     }
   ],
   "publications": [
+    {
+      "name": "Spatial Dynamic Modeling of Magnetically Actuated Kresling Origami: A Bar-and-Hinge Framework",
+      "publisher": "ICOMMA 2027 (in preparation)",
+      "releaseDate": "2026",
+      "summary": "Thinh Nguyen Nhu, Duy Pham Minh, Chien Truong-Quoc, Thao Thai Phuong"
+    },
     {
       "name": "Gradient-Based Inverse Design of Kresling Origami via Neural Surrogate Modeling",
       "publisher": "Robotics and Mechatronics, ISRM 2026",
@@ -102,6 +141,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "Certificate of Merit for Outstanding Graduate",
+      "date": "2026",
+      "awarder": "Hanoi University of Science and Technology (HUST)",
+      "summary": "Awarded for university-wide outstanding graduation (Toàn khóa) with CPA > 3.6 and Training Score > 90 (09/2026)."
+    },
     {
       "title": "Academic Encouragement Scholarship",
       "date": "2023 - 2025",
@@ -151,12 +196,23 @@
       ]
     },
     {
-      "name": "Mathematical Tools",
+      "name": "Molecular Dynamics",
       "level": "Intermediate",
+      "keywords": [
+        "Molecular Dynamics (MD) Simulation",
+        "cadnano",
+        "tacoxDNA",
+        "oxDNA"
+      ]
+    },
+    {
+      "name": "Mathematical Tools",
+      "level": "Advanced",
       "keywords": [
         "Optimization",
         "Mathematical modeling of dynamical systems",
         "Numerical simulation",
+        "Newton-Physics open-source simulation engine",
         "Nonlinear system analysis",
         "FEA"
       ]

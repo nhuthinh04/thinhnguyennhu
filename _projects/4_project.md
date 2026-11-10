@@ -1,16 +1,19 @@
 ---
 layout: page
-title: Cell Segmentation & Multi-Object Tracking
-description: Deep learning pipeline for cell segmentation and multi-object tracking developed for the Biohub Kaggle Competition.
+title: Molecular Dynamics Simulation & AI for DNA Origami
+description: Coarse-grained molecular dynamics simulations and deep learning for the structural prediction and inverse design of DNA origami nanostructures at AiRA Lab.
 img: assets/img/1.jpg
 importance: 4
-category: competitions
+category: research
 giscus_comments: false
 ---
 
-Developed a robust deep learning pipeline for automated cell instance segmentation and multi-object tracking during biological developmental processes.
+At **AiRA Lab**, Hanoi University of Science and Technology (HUST), this research explores the intersection of molecular nanotechnology, biophysics, and machine learning for the automated design and simulation of DNA origami.
+
+### Background & Motivation
+DNA origami enables the programmable nanoscale self-assembly of complex 2D and 3D geometries by folding long single-stranded DNA scaffold strands using hundreds of short oligonucleotide "staple" strands. Understanding the mechanical stability, conformational flexibility, and dynamic response of these nanostructures requires multiscale simulation and modern predictive modeling.
 
 ### Key Highlights
-- **Instance Segmentation:** Implemented CNN and Transformer-based segmentation backbones to delineate complex overlapping cellular boundaries in microscopy imaging.
-- **Multi-Object Tracking:** Integrated spatio-temporal tracking algorithms to associate cell lineages and trajectories across time frames.
-- **Data Augmentation & Robustness:** Employed advanced data augmentation strategies to handle noise, illumination variations, and dense cellular populations.
+- **Computer-Aided Nanostructure Design:** Designed intricate DNA origami architectures utilizing **cadnano** and converted geometrical lattices for simulation via **tacoxDNA**.
+- **Coarse-Grained Molecular Dynamics:** Performed coarse-grained MD simulations using **oxDNA** to capture thermodynamic fluctuations, base-pairing energies, hybridization kinetics, and structural flexibility.
+- **AI-Driven Property Prediction & Inverse Design:** Investigating deep learning and generative modeling architectures to predict equilibrium conformations, mechanical stiffness, and thermal stability directly from sequence and staple routing, reducing computational bottlenecks in nanodesign.

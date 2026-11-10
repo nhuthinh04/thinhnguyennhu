@@ -3,7 +3,7 @@ layout: page
 title: Dynamics of 3-RRR Planar Parallel Robot
 description: Kinematic simulation, dynamic modeling, and trajectory-tracking algorithms for parallel mechanisms in MATLAB/Simulink.
 img: assets/img/3.jpg
-importance: 3
+importance: 6
 category: research
 giscus_comments: false
 ---

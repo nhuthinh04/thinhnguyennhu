@@ -28,22 +28,26 @@ latest_posts:
   limit: 3
 ---
 
-I am a Mechatronics Engineering graduate from **Hanoi University of Science and Technology (HUST)** and currently a Research Assistant at [AiRA Lab](https://aira-hust.github.io/AiRA/), HUST.
+I am currently a Master's student in Mechatronics Engineering at **Hanoi University of Science and Technology (HUST)**, a Research Assistant at [AiRA Lab](https://aira-hust.github.io/AiRA/) (HUST), a Research Student at **Origami Technology Lab** (HUST), and a Research Collaborator at **ICMAM Lab Collaborative** (HCMUT).
 
 ### Research Interests
 As a science-oriented person, my long-term vision is to develop intelligent systems and structures that learn from the fundamental principles of physics, biology, and engineering. My research interests focus on applied machine learning, particularly:
 - **Physics-Informed Machine Learning (PIML)** and **Physics-Informed Neural Networks (PINNs)**
 - **Generative AI** for scientific discovery and inverse problems
-- **Nonlinear dynamics & bifurcation analysis** of metamaterials and smart structures (e.g., Kresling origami)
-- **Structural analysis & design optimization** of composite structures
+- **Molecular Dynamics (MD) Simulation & AI-driven Design of DNA Origami** (oxDNA, cadnano, tacoxDNA)
+- **Spatial Dynamic Modeling & Numerical Simulation** of Magnetically Actuated Kresling origami via bar-and-hinge models in the open-source Newton-Physics engine
+- **Structural Analysis & Optimization** of composite laminates based on First-order Shear Deformation Theory (FSDT)
 
-My ultimate goal is to build physics-grounded AI models that enable the understanding, design, and control of next-generation smart structures.
+My ultimate goal is to build physics-grounded AI models that enable the understanding, design, and control of next-generation smart systems.
 
 ### Education
+- **M.Sc. in Mechatronics Engineering** (11/2026 – Present)  
+  *Hanoi University of Science and Technology (HUST)*, Hanoi, Vietnam
+
 - **B.Sc. in Mechatronics Engineering** (10/2022 – 08/2026)  
   *Hanoi University of Science and Technology (HUST)*, Hanoi, Vietnam  
   - **GPA:** 3.69 / 4.0  
   - **Thesis:** *Modeling and Inverse Design of Kresling Origami via Physics-Informed Neural Networks*  
-  - **Awards:** VPMS Award for Graduation Thesis with Scientific Value; Outstanding Creative Idea Award (43rd HUST Annual Student Research Conference).
+  - **Honors & Awards:** Certificate of Merit for Outstanding Graduate (Toàn khóa, CPA > 3.6, Training Score > 90); VPMS Award for Graduation Thesis with Scientific Value; Outstanding Creative Idea Award (43rd HUST Annual Student Research Conference).
 
 Feel free to check out my [CV]({{ '/cv/' | relative_url }}), [Publications]({{ '/publications/' | relative_url }}), or reach out via [Email](mailto:nhuthinh2004@gmail.com)!
