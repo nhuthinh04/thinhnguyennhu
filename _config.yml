@@ -4,8 +4,8 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Thinh
-middle_name: Nhu
-last_name: Nguyen
+middle_name: Nguyen
+last_name: Nhu
 contact_note: >
   Feel free to reach out via email or connect on LinkedIn / GitHub!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -15,8 +15,8 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: physics-informed machine learning, PIML, PINN, DNA origami, molecular dynamics, kresling origami, mechatronics, HUST, AI research, portfolio # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
+icon: logo_t.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+apple_touch_icon: logo_t.svg # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://nhuthinh04.github.io # the base hostname & protocol for your site
 baseurl: /thinhnguyennhu # If repo is renamed to nhuthinh04.github.io, set baseurl: ""
@@ -96,7 +96,7 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -355,7 +355,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Nguyen, Nguyen Nhu]
+  last_name: [Nguyen Nhu, Nguyen, Nhu, Nguyen-Nhu]
   first_name: [Thinh, Nhu Thinh, Thinh Nguyen, Thinh Nhu]
 
   style: apa

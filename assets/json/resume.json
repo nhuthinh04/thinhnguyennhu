@@ -105,8 +105,9 @@
       ],
       "highlights": [
         "Thesis: Modeling and Inverse Design of Kresling Origami via Physics-Informed Neural Networks",
-        "Certificate of Merit for Outstanding Graduate (Toàn khóa) with CPA > 3.6 and Training Score > 90 (09/2026)",
+        "Certificate of Merit for Outstanding Graduate (University-wide) with CPA > 3.6 and Training Score > 90 (09/2026)",
         "VPMS Award for Graduation Thesis with Scientific Value (2026)",
+        "Academic Encouragement Scholarship (Semesters 2023.2, 2024.1, 2024.2, and 2025.2)",
         "Outstanding Creative Idea Award - 43rd HUST Annual Student Research Conference (2026)"
       ]
     }
@@ -114,7 +115,7 @@
   "publications": [
     {
       "name": "Spatial Dynamic Modeling of Magnetically Actuated Kresling Origami: A Bar-and-Hinge Framework",
-      "publisher": "ICOMMA 2027 (in preparation)",
+      "publisher": "International Conference on Modern Mechanics and Applications (ICOMMA 2027) (in preparation)",
       "releaseDate": "2026",
       "summary": "Thinh Nguyen Nhu, Duy Pham Minh, Chien Truong-Quoc, Thao Thai Phuong"
     },
@@ -145,7 +146,7 @@
       "title": "Certificate of Merit for Outstanding Graduate",
       "date": "2026",
       "awarder": "Hanoi University of Science and Technology (HUST)",
-      "summary": "Awarded for university-wide outstanding graduation (Toàn khóa) with CPA > 3.6 and Training Score > 90 (09/2026)."
+      "summary": "Awarded for university-wide outstanding graduation with CPA > 3.6 and Training Score > 90 (09/2026)."
     },
     {
       "title": "Academic Encouragement Scholarship",

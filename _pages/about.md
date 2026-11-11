@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://hust.edu.vn/" target="_blank">HUST</a> · Mechatronics Engineering · AI Researcher
+subtitle: AI Researcher · <a href="https://hust.edu.vn/" target="_blank">Hanoi University of Science and Technology (HUST)</a>
 
 profile:
   align: right
@@ -14,29 +14,23 @@ profile:
     <p>Hanoi, Vietnam</p>
     <p>Phone: (+84) 0329 000 482</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # handled explicitly below as "publications"
 social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true
-  limit: 3
+  limit: 10 # show all announcements
 ---
 
-I am currently a Master's student in Mechatronics Engineering at **Hanoi University of Science and Technology (HUST)**, a Research Assistant at [AiRA Lab](https://aira-hust.github.io/AiRA/) (HUST), a Research Student at **Origami Technology Lab** (HUST), and a Research Collaborator at **ICMAM Lab Collaborative** (HCMUT).
+I am currently a Master's student in Mechatronics Engineering at **Hanoi University of Science and Technology (HUST)** and a Research Assistant at [AiRA Lab](https://aira-hust.github.io/AiRA/) (HUST).
 
 ### Research Interests
 As a science-oriented person, my long-term vision is to develop intelligent systems and structures that learn from the fundamental principles of physics, biology, and engineering. My research interests focus on applied machine learning, particularly:
-- **Physics-Informed Machine Learning (PIML)** and **Physics-Informed Neural Networks (PINNs)**
-- **Generative AI** for scientific discovery and inverse problems
+- **Physics-Informed Machine Learning (PIML) & Generative AI** for scientific discovery and inverse problems
+- **Inverse design of origami structures** and their engineering applications
+- **Topology optimization of composite laminates** via physics-informed learning
 - **Molecular Dynamics (MD) Simulation & AI-driven Design of DNA Origami** (oxDNA, cadnano, tacoxDNA)
-- **Spatial Dynamic Modeling & Numerical Simulation** of Magnetically Actuated Kresling origami via bar-and-hinge models in the open-source Newton-Physics engine
-- **Structural Analysis & Optimization** of composite laminates based on First-order Shear Deformation Theory (FSDT)
 
 My ultimate goal is to build physics-grounded AI models that enable the understanding, design, and control of next-generation smart systems.
 
@@ -48,6 +42,12 @@ My ultimate goal is to build physics-grounded AI models that enable the understa
   *Hanoi University of Science and Technology (HUST)*, Hanoi, Vietnam  
   - **GPA:** 3.69 / 4.0  
   - **Thesis:** *Modeling and Inverse Design of Kresling Origami via Physics-Informed Neural Networks*  
-  - **Honors & Awards:** Certificate of Merit for Outstanding Graduate (Toàn khóa, CPA > 3.6, Training Score > 90); VPMS Award for Graduation Thesis with Scientific Value; Outstanding Creative Idea Award (43rd HUST Annual Student Research Conference).
+  - **Honors & Awards:**
+    - Certificate of Merit for Outstanding Graduate (University-wide, CPA > 3.6, Training Score > 90) (09/2026)
+    - VPMS Award for Graduation Thesis with Scientific Value (2026)
+    - Academic Encouragement Scholarship (Semesters 2023.2, 2024.1, 2024.2, and 2025.2)
+    - Outstanding Creative Idea Award (43rd HUST Annual Student Research Conference, 2026)
 
-Feel free to check out my [CV]({{ '/cv/' | relative_url }}), [Publications]({{ '/publications/' | relative_url }}), or reach out via [Email](mailto:nhuthinh2004@gmail.com)!
+## [publications]({{ '/publications/' | relative_url }})
+
+{% include selected_papers.liquid %}

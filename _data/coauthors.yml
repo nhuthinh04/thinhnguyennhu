@@ -6,6 +6,10 @@
   - firstname: ["Chien Quoc", "Chien Truong", "C. Q."]
     url:
 
+"truong-quoc":
+  - firstname: ["Chien", "C."]
+    url:
+
 "vuong":
   - firstname: ["Thanh Trung", "T. T."]
     url:

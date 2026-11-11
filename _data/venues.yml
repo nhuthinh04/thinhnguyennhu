@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ICOMMA":
+  color: "#0076df"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ISRM":
+  color: "#0076df"
 
-"Vision":
-  color: "#009f36"
+"ICEMA25":
+  color: "#0076df"
+
+"Preprint":
+  color: "#6c757d"

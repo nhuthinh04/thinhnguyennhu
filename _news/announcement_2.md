@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-07-03 10:00:00+0700
+date: 2026-09-24 10:00:00+0700
 inline: true
 related_posts: false
 ---
 
-Our paper [Gradient-Based Inverse Design of Kresling Origami via Neural Surrogate Modeling](https://doi.org/10.1007/978-3-032-29469-2_39) has been published in *Robotics and Mechatronics (ISRM 2026)*!
+Honored to receive the **Certificate of Merit for Outstanding Graduate** from **Hanoi University of Science and Technology (HUST)** (CPA > 3.6, Training Score > 90)!

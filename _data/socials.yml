@@ -5,6 +5,5 @@ cv_pdf: /assets/pdf/CV_Thinh.pdf # path to your CV PDF file
 email: nhuthinh2004@gmail.com # your email address
 orcid_id: 0009-0002-8653-2368 # your ORCID ID
 github_username: nhuthinh04 # your GitHub username
-# linkedin_username: # add your LinkedIn username here if you have one
-# scholar_userid: # your Google Scholar ID if available
+linkedin_username: thinh-nguyen-nhu-508509351 # your LinkedIn username
 rss_icon: true
