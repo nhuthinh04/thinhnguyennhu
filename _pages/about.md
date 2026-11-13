@@ -12,7 +12,6 @@ profile:
     <p>AiRA Lab</p>
     <p>Hanoi University of Science and Technology</p>
     <p>Hanoi, Vietnam</p>
-    <p>Phone: (+84) 0329 000 482</p>
 
 selected_papers: false # handled explicitly below as "publications"
 social: true # includes social icons at the bottom of the page
