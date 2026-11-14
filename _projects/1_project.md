@@ -4,7 +4,7 @@ title: Inverse Design of Kresling Origami via PINNs
 description: Modeling and multi-solution inverse design of Kresling origami structures using Physics-Informed Neural Networks.
 img: assets/img/12.jpg
 importance: 1
-category: research
+category: Research
 related_publications: true
 ---
 

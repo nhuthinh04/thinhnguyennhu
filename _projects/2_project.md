@@ -4,7 +4,7 @@ title: Global Dynamics and Bifurcation of Kresling Origami
 description: Comprehensive analysis of nonlinear dynamics, multi-parameter energy frameworks, and bifurcation behaviors of Kresling origami under harmonic excitation.
 img: assets/img/6.jpg
 importance: 2
-category: research
+category: Research
 related_publications: true
 ---
 

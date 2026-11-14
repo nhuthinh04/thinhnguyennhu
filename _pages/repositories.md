@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Open-source projects and code repositories.
 nav: false
 nav_order: 4

@@ -4,7 +4,7 @@ title: Molecular Dynamics Simulation & AI for DNA Origami
 description: Coarse-grained molecular dynamics simulations and deep learning for the structural prediction and inverse design of DNA origami nanostructures at AiRA Lab.
 img: assets/img/1.jpg
 importance: 4
-category: research
+category: Research
 giscus_comments: false
 ---
 

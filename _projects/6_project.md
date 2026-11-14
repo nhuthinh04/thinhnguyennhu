@@ -4,7 +4,7 @@ title: Magnetically Actuated Kresling Origami Dynamics
 description: Spatial dynamic modeling and numerical simulation of magnetically actuated Kresling origami via a bar-and-hinge framework and Newton-Physics engine at Origami Technology Lab (HUST).
 img: assets/img/7.jpg
 importance: 3
-category: research
+category: Research
 related_publications: true
 ---
 

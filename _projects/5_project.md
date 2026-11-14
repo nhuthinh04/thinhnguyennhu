@@ -4,7 +4,7 @@ title: PINN for Composite Laminates Analysis & Optimization
 description: Physics-Informed Neural Networks (PINN) for structural analysis and design optimization of composite laminates based on First-order Shear Deformation Theory (FSDT) with ICMAM Lab Collaborative (HCMUT).
 img: assets/img/2.jpg
 importance: 5
-category: research
+category: Research
 giscus_comments: false
 ---
 

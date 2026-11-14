@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Teaching assistantships and academic course materials.
 nav: false
 nav_order: 6

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: A showcase of my research and engineering projects in Physics-Informed Machine Learning, robotics, and scientific computing.
 nav: true
 nav_order: 2
-display_categories: [research, competitions]
+display_categories: [Research]
 horizontal: false
 ---
 

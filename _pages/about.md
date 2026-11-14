@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: AI Researcher · <a href="https://hust.edu.vn/" target="_blank">Hanoi University of Science and Technology (HUST)</a>
 
@@ -22,10 +22,10 @@ announcements:
   limit: 10 # show all announcements
 ---
 
-I am currently a Master's student in Mechatronics Engineering at **Hanoi University of Science and Technology (HUST)** and a Research Assistant at [AiRA Lab](https://aira-hust.github.io/AiRA/) (HUST).
+I am a Master's student in Mechatronics Engineering at **Hanoi University of Science and Technology (HUST)** and a Research Assistant at [AiRA Lab](https://aira-hust.github.io/AiRA/) (HUST), where I work on physics-informed machine learning and computational mechanics.
 
 ### Research Interests
-As a science-oriented person, my long-term vision is to develop intelligent systems and structures that learn from the fundamental principles of physics, biology, and engineering. My research interests focus on applied machine learning, particularly:
+My long-term research vision is to develop intelligent systems and structures that learn from the fundamental principles of physics, biology, and engineering. My current interests include:
 - **Physics-Informed Machine Learning (PIML) & Generative AI** for scientific discovery and inverse problems
 - **Inverse design of origami structures** and their engineering applications
 - **Topology optimization of composite laminates** via physics-informed learning
@@ -47,7 +47,7 @@ My ultimate goal is to build physics-grounded AI models that enable the understa
     - Academic Encouragement Scholarship (Semesters 2023.2, 2024.1, 2024.2, and 2025.2)
     - Outstanding Creative Idea Award (43rd HUST Annual Student Research Conference, 2026)
 
-## [featured research & project highlights]({{ '/projects/' | relative_url }})
+## [Featured Research & Project Highlights]({{ '/projects/' | relative_url }})
 
 <div class="row row-cols-1 row-cols-md-2 g-4 mt-2">
   <!-- Card 1: B.Sc. Graduation Thesis & PINN Origami -->
